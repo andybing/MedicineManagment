@@ -1,0 +1,54 @@
+.zong{
+	height:10000x;
+	width:10000px;
+}
+.ziti
+{
+	
+	margin-top:30px;
+	font-family:;
+	line-height:19px;
+	font-size:25px;
+	
+}
+.biaoti
+{
+	background:black;
+	width:400px;
+	height:50px;
+	float:left;
+}
+.zuobian{
+	background:yellow;
+	width:300px;
+	height:300px;
+	float:left;
+	dispaly:block; 
+	margin-left:210px;
+	margin-top:80px;
+	background:url(../images/yiyuan.jpg) repeat-x;
+}
+
+.zhongjian
+{
+	height:370x;
+	width:370px;
+	background:;
+	dispaly:block; 
+	margin-left:230px;
+	margin-top:80px;
+	float:left;
+	
+	
+}
+.zhongjian table
+{
+	width:370px;
+	height:350px;
+	float:left;
+	border-collapse:collapse ;
+	border-left:1px #000000 solid;
+	border-right:1px #000000 solid;
+	border-top:1px #000000 solid;
+	border-bottom:1px #000000 solid;
+}

@@ -1,0 +1,71 @@
+!SESSION 2017-04-17 10:13:12.579 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_43
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2017-04-17 10:14:12.811
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-17 10:14:12.811
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.internal.action.RemoveAction,Remove,
+		Remove selected Pictogram Elements,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.handlers.WidgetMethodHandler@7bdf6ed6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.272
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.311
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.330
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.351
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.383
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.436
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.470
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.500
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.541
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.576
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-04-17 10:14:24.600
+!MESSAGE Installed snippet library: C:\Users\Andy\AppData\Local\MyEclipse Professional\configuration\org.eclipse.osgi\bundles\143\1\.cp\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY org.eclipse.core.jobs 2 2 2017-04-17 10:14:52.438
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
